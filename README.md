@@ -3,16 +3,14 @@ Public project to summarise the plans and progress for the Crypto Currency based
 
 # Project Management
 The [Projects](https://github.com/NathanShanners/HXY-Development/projects) section of this GitHub Repository is leveraged for development based project management.  Currently the following projects are available for this development repository:
-  1. [ ] HXY Dice
-  2. [ ] HXY Gold
-  3. [x] [HXY on Tron (HXYT)](https://hxyt.io/) ✔
-  4. [x] [HXY Finance (HXYF)](https://hxy.business/hxyfinance/) ✔
-  5. [x] [HOT! Staking](https://hxyt.io/HOT/) ✔
-  6. [ ] [HXY Stats]((https://github.com/NathanShanners/HXY-Development/projects/1))
-  7. [ ] HXYT Box Game
-  8. [ ] HXY Credit
-  9. [ ] HXY Lotto Rocket
-  10. [ ] HXY Lotto Stake
+1. [x] [HXY Finance (HXYF)](https://hxy.business/hxyfinance/) ✔
+2. [x] [HXY on Tron (HXYT)](https://hxyt.io/) ✔
+3. [ ] [HXYT Phase 1 Development](https://github.com/NathanShanners/HXY-Development/issues/6)
+4. [ ] [HXY Stats](https://github.com/NathanShanners/HXY-Development/projects/1)
+5. [ ] HXY Credit
+6. [ ] HXY Lotto Rocket
+7. [ ] HXY Lotto Stake
+8. [ ] [HXY Gold](https://github.com/NathanShanners/HXY-Development/issues/7)
 
 # Documentation
 This is provided in the [wiki for this repository.](https://github.com/NathanShanners/HXY-Development/wiki)
