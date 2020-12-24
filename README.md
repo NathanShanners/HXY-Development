@@ -9,6 +9,10 @@ The [Projects](https://github.com/NathanShanners/HXY-Development/projects) secti
   4. [x] [HXY Finance (HXYF)](https://hxy.business/hxyfinance/) ✔
   5. [x] [HOT! Staking](https://hxyt.io/HOT/) ✔
   6. [ ] [HXY Stats]((https://github.com/NathanShanners/HXY-Development/projects/1))
+  7. [ ] HXYT Box Game
+  8. [ ] HXY Credit
+  9. [ ] HXY Lotto Rocket
+  10. [ ] HXY Lotto Stake
 
 # Documentation
 This is provided in the [wiki for this repository.](https://github.com/NathanShanners/HXY-Development/wiki)
