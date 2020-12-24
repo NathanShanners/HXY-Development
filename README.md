@@ -15,3 +15,5 @@ This is provided in the [wiki for this repository.](https://github.com/NathanSha
 
 # Community Input
 Submission of ideas and feedback is encouraged, this can be done by simply creating a free Github account (takes 2 minutes) and then creating an Issue in the [Issues Tab].(https://github.com/NathanShanners/HXY-Development/issues)  Issues can be attached to projects they relate to and also have labels applied to help indicate what they are for - i.e. "Idea", "Feedback", "Bug", "Enhancement" etc.  Issues can be commented on by Team members or other community members to provide frequent interaction and encourage development progress.
+
+![resources](https://gdoc.pub/doc/e/2PACX-1vQhiFQq5noxNpGroHNoX2O6y5xZK8yzSRDGSWP2fbpZVq5nkgOxoDHSVO_O6xITG_4xa5--f-T5V9c6)
