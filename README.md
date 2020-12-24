@@ -21,9 +21,9 @@ Issues can be attached to projects they relate to and also have labels applied t
     1. Set type to "Idea"
     2. Assign to project "Community Ideas"
 2. This will be reviewed by the HXY DEvelopment Team and comments added to the Issue if required
-3. The issue will be either be:
+3. The issue will then be updated:
     1. Merged with additional issues leading up to the definition of a new project or development activity
-    2. Left in the Ideas project with comments to advise when last reviewed
+    2. Remain in the Ideas project with comments to advise when last reviewed
     3. Closed with comments advising why it is closed and won't be taken forward
   
 <details><summary>Click to expand/collapse</summary>
