@@ -4,10 +4,11 @@ Public project to summarise the plans and progress for the Crypto Currency based
 # Project Management
 The [Projects](https://github.com/NathanShanners/HXY-Development/projects) section of this GitHub Repository is leveraged for development based project management.  Currently the following projects are available for this development repository:
   1. [ ] HXY Dice
-  2. [x] HXY on Tron (HXYT)
-  3. [x] HXY Finance (HXYF)
-  4. [x] HOT! Staking
-  5. [ ] [HXY Stats]((https://github.com/NathanShanners/HXY-Development/projects/1))
+  2. [ ] HXY Gold
+  3. [x] HXY on Tron (HXYT)
+  4. [x] HXY Finance (HXYF)
+  5. [x] HOT! Staking
+  6. [ ] [HXY Stats]((https://github.com/NathanShanners/HXY-Development/projects/1))
 
 # Documentation
 This is provided in the [wiki for this repository.](https://github.com/NathanShanners/HXY-Development/wiki)
