@@ -17,14 +17,18 @@ This is provided in the [wiki for this repository.](https://github.com/NathanSha
 Submission of ideas and feedback is encouraged, this can be done by simply creating a free Github account (takes 2 minutes) and then creating an Issue in the [Issues Tab].(https://github.com/NathanShanners/HXY-Development/issues).
 
 Issues can be attached to projects they relate to and also have labels applied to help indicate what they are for - i.e. "Idea", "Feedback", "Bug", "Enhancement" etc.  Issues can be commented on by Team members or other community members to provide frequent interaction and encourage development progress.
+1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
 1. Create Issue with details for idea
-  - Set type to "Idea"
-  - Assign to project "Community Ideas"
+    1. Set type to "Idea"
+    2. Assign to project "Community Ideas"
 2. This will be reviewed by the HXY DEvelopment Team and comments added to the Issue if required
 3. The issue will be either be:
-  - Merged with additional issues leading up to the definition of a new project or development activity
-  - Left in the Ideas project with comments to advise when last reviewed
-  - Closed with comments advising why it is closed and won't be taken forward
+    1. Merged with additional issues leading up to the definition of a new project or development activity
+    2. Left in the Ideas project with comments to advise when last reviewed
+    3. Closed with comments advising why it is closed and won't be taken forward
   
 <details><summary>Click to expand/collapse</summary>
 <p>
