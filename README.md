@@ -20,7 +20,7 @@ Issues can be attached to projects they relate to and also have labels applied t
 1. [Create Issue](https://github.com/NathanShanners/HXY-Development/issues) with details for idea
     1. Set type to "Idea"
     2. Assign to [project "Community Ideas"](https://github.com/NathanShanners/HXY-Development/projects/2)
-2. This will be reviewed by the HXY DEvelopment Team and comments added to the Issue if required
+2. This will be reviewed by the HXY Development Team and comments added to the Issue if required
 3. The issue will then be updated:
     1. Merged with additional issues leading up to the definition of a new project or development activity
     2. Remain in the Ideas project with comments to advise when last reviewed
