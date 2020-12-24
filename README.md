@@ -7,7 +7,7 @@ The [Projects](https://github.com/NathanShanners/HXY-Development/projects) secti
   2. [ ] HXY Gold
   3. [x] [HXY on Tron (HXYT)](https://hxyt.io/) ✔
   4. [x] [HXY Finance (HXYF)](https://hxy.business/hxyfinance/) ✔
-  5. [x] [HOT! Staking] (https://hxyt.io/HOT/) ✔
+  5. [x] [HOT! Staking](https://hxyt.io/HOT/) ✔
   6. [ ] [HXY Stats]((https://github.com/NathanShanners/HXY-Development/projects/1))
 
 # Documentation
@@ -16,12 +16,8 @@ This is provided in the [wiki for this repository.](https://github.com/NathanSha
 # Community Input
 Telegram currently hosts the [main channel](https://t.me/hexmobileapp) for HXY and submission of ideas and feedback is encouraged.  This can be done by simply creating a free Github account (takes 2 minutes) and then creating an Issue in the [Issues Tab].(https://github.com/NathanShanners/HXY-Development/issues).
 
-Issues can be attached to projects they relate to and also have labels applied to help indicate what they are for - i.e. "Idea", "Feedback", "Bug", "Enhancement" etc.  Issues can be commented on by Team members or other community members to provide frequent interaction and encourage development progress.
-1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
-1. Create Issue with details for idea
+Issues can be attached to projects they relate to and also have labels applied to help indicate what they are for - i.e. "Idea", "Feedback", "Bug", "Enhancement" etc.  Issues can be commented on by Team members or other community members to provide frequent interaction and encourage development progress:
+1. [Create Issue](https://github.com/NathanShanners/HXY-Development/issues) with details for idea
     1. Set type to "Idea"
     2. Assign to project "Community Ideas"
 2. This will be reviewed by the HXY DEvelopment Team and comments added to the Issue if required
